@@ -1,3 +1,3 @@
 # azure-functions
 
-The /resourcegroupdemo/resourcegraphdemo/resourcegraph.cs file contains examples of how to run a azure resource graph query using batching. 
+[Resourcegraph.cs](ResourceGraphDemo/ResourceGraphDemo/ResourceGraph.cs) contains and example of how to run a **Azure Resource Graph API** query using batching. 
